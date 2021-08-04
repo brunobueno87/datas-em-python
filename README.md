@@ -5,7 +5,7 @@ No meu caso precisei de uma lógica em uma solução que era d -1. Ou seja a dat
 
 Esse script faz exatamente isso, e já quebra em variaveis "dia" "mes" "ano" podendo ser utilizado de forma customizada durante sua aplicação ou script.
 
-Utilizando o timedelta que a magica do d -1. Você pode avançar ou retroceder na data de diversas formas o que facilita muito se o que você precisa é customizar a data na sua solução indenpendente como isso tem que ser feito. 
+Utilizando o timedelta que a magica do d -1 é possivel. Com ele você pode avançar ou retroceder na data de diversas formas o que facilita muito se o que você precisa é customizar a data na sua solução indenpendente como isso tem que ser feito, no que se refere a linha do tempo. 
 
 Segue link da doc, para mais informações;
 
